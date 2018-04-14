@@ -1419,6 +1419,14 @@ body {
 .cid-qNhJjXFU63 .copyright > p {
   text-align: left;
 }
+#custom-html-2v .clearbox {
+  font-size: 18px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid black ;
+  text-align: center ;
+  padding: 10px ;
+}
 .cid-qNhkv00cXg .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
