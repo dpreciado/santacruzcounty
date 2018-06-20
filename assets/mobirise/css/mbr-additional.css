@@ -3882,56 +3882,6 @@ body {
 .cid-qNhOhif5vV .mbr-section-title {
   color: #ffffff;
 }
-.cid-qNs7EBnhA5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #444444;
-}
-.cid-qNs7EBnhA5 .mbr-iconfont {
-  color: #8d97ad;
-}
-.cid-qNs7EBnhA5 .mbr-iconfont:hover {
-  color: #188ef4 !important;
-}
-.cid-qNs7EBnhA5 .mbr-text {
-  margin: 1.5rem 0;
-  color: #efefef;
-}
-.cid-qNs7EBnhA5 .mbr-section-subtitle {
-  color: #8d97ad;
-}
-.cid-qNs7EBnhA5 .card-img {
-  margin-bottom: 2rem;
-  width: 200px;
-  height: 200px;
-  margin: 0 auto 2rem auto;
-  border-radius: 50%;
-  overflow: hidden;
-  position: relative;
-  z-index: 1;
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-}
-.cid-qNs7EBnhA5 .img-icon {
-  width: 100%;
-  height: auto;
-}
-@media (min-width: 992px) {
-  .cid-qNs7EBnhA5 .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-qNs7EBnhA5 .user-desc {
-  color: #ffffff;
-}
-.cid-qNs7EBnhA5 .card-title {
-  color: #ffffff;
-}
-.cid-qNs7EBnhA5 .mbr-section-title {
-  color: #ffffff;
-}
 .cid-qNhkv00cXg .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
