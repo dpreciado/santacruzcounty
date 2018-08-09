@@ -1317,11 +1317,14 @@ body {
 }
 #custom-html-2v .clearbox {
   font-size: 18px ;
+  margin-top: 50px ;
   margin-left: auto ;
   margin-right: auto ;
+  margin-bottom: 50px ;
   border: 1px solid black ;
   text-align: center ;
   padding: 50px ;
+  background-color: white;
 }
 .cid-qNhJjXFU63 {
   padding-top: 75px;
