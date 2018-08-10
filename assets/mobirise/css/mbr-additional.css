@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700);
 
 
@@ -21,7 +22,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 3rem;
 }
 .display-1 > .mbr-iconfont {
@@ -42,7 +43,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
@@ -874,7 +875,7 @@ body {
 .cid-qNhECnJ4w3 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #d1c2b1;
 }
 .cid-qNhECnJ4w3 .mbr-text {
   color: #8d97ad;
@@ -897,10 +898,13 @@ body {
 }
 .cid-qNhECnJ4w3 .mbr-text,
 .cid-qNhECnJ4w3 .blockquote-quote {
-  color: #444444;
+  color: #000000;
 }
 .cid-qNhECnJ4w3 .signature {
   color: #444444;
+}
+.cid-qNhECnJ4w3 .signature I {
+  color: #000000;
 }
 .cid-qNhWklcViT {
   padding-top: 60px;
