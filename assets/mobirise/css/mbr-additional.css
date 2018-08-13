@@ -2002,6 +2002,22 @@ body {
 .cid-r0hk0EKu6f .copyright > p {
   color: #d1c2b1;
 }
+.cid-r0AfFETpfA {
+  padding-top: 120px;
+  padding-bottom: 40px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+}
+.cid-r0AfFETpfA .mbr-overlay {
+  background: #232323;
+}
+.cid-r0AfFETpfA .mbr-text,
+.cid-r0AfFETpfA mbr-section-btn DIV {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-r0AfFETpfA H1 {
+  color: #ffffff;
+}
 .cid-qNhOhif5vV {
   padding-top: 60px;
   padding-bottom: 60px;
