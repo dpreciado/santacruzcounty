@@ -804,25 +804,6 @@
             "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
             "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
           ]
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text": {
-              "color": "#d1c2b1",
-              "text-align": "center"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section content1\" group=\"Content\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#2b6477\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-lg-8 col-md-10\">\n                <p class=\"mbr-text mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Help improve this site's Google Translate. \n<br><a href=\"https://translate.google.com/community\" target=\"_blank\">Click here to learn how</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r2HnLuXkly",
-          "_anchor": "content1-6k",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
         }
       ]
     },
