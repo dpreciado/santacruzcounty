@@ -45,7 +45,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "undefined",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 238,
+    "uniqCompNum": 239,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -789,10 +789,28 @@
           "_params": {}
         },
         {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#8d97ad"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section content1\" group=\"Content\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-lg-8 col-md-10\">\n                <p class=\"mbr-text mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis quam et quasi, dignissimos culpa rerum non corporis neque fuga nihil? Illo iure, nesciunt sunt fugiat vero tempora aspernatur iste, repudiandae? Molestias qui commodi, ut rerum recusandae, fugit cumque suscipit dolorem tenetur dolore, cupiditate voluptatibus. Mollitia dolorum, quae, doloribus, itaque dignissimos veritatis a amet aliquid cum veniam minus. Repudiandae, facilis, delectus?\n                </p>\n            </div>\n        </div>\n    </div>\n</section>\n\n\n",
+          "_cid": "r2HsfuYCu4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-6m"
+        },
+        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<div class=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}",
-          "_customCSS": "\n.google_translate_element {\n  position: absolute;\n}",
+          "_customCSS": ".google_translate_element {\n  position: absolute;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
