@@ -1490,6 +1490,53 @@ body {
 .cid-r0fYc6Gzen .copyright > p {
   color: #d1c2b1;
 }
+.cid-r2EUdxonqe {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-r2EUdxonqe .mbr-text {
+  color: #444;
+}
+.cid-r2EUdxonqe .social-list {
+  display: flex;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-r2EUdxonqe .social-list .mbr-iconfont-social {
+  font-size: 1.1rem;
+  color: black;
+}
+.cid-r2EUdxonqe .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-r2EUdxonqe .social-list a {
+  margin: 0;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-r2EUdxonqe .social-list a:hover {
+  opacity: .4;
+}
+@media (max-width: 991px) {
+  .cid-r2EUdxonqe .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-r2EUdxonqe .media-container-row > div {
+  padding: 0px;
+}
+@media (max-width: 991px) {
+  .cid-r2EUdxonqe .mbr-text {
+    text-align: center !important;
+    padding-bottom: 1.5rem;
+  }
+}
 .cid-qNkoonXaJN {
   padding-top: 120px;
   padding-bottom: 120px;
