@@ -859,8 +859,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<hr>\n\n<div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}",
-          "_customCSS": ".google_translate_element {\n    position: absolute;\n    \n}\n.google_translate_element {\n    background-color: #2B6477;\n    align-content: absolute;\n}\n",
+          "_customHTML": "<hr>\n\n<div class=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}",
+          "_customCSS": ".google_translate_element {\n    background-color: #2B6477;\n    align-content: absolute;\n}\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"
@@ -886,11 +886,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section content1\" group=\"Content\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#2b6477\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-lg-8 col-md-10\">\n                <p class=\"mbr-text mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Help improve this site's Google Translate. \n<br><a href=\"https://translate.google.com/community\" target=\"_blank\">Click here to learn how</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r2HnLuXkly",
+          "_anchor": "content1-6k",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-6k"
+          "_params": {}
         }
       ]
     },
