@@ -862,7 +862,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}",
+          "_customHTML": "<div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}",
           "_customCSS": ".google_translate_element {\n    position: absolute;\n    \n}\n.google_translate_element {\n    background-color: #2B6477;\n    \n}\n",
           "alias": "code-editor",
           "_tags": [
