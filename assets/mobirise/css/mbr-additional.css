@@ -923,6 +923,12 @@ body {
     width: 100% !important;
   }
 }
+#custom-html-6h {
+  /* Type valid CSS here */
+}
+#custom-html-6h .my-image {
+  width: 100%;
+}
 .cid-qNhDyL6WVB {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1489,12 +1495,6 @@ body {
 }
 .cid-r0fYc6Gzen .copyright > p {
   color: #d1c2b1;
-}
-#custom-html-6g {
-  /* Type valid CSS here */
-}
-#custom-html-6g .my-image {
-  width: 100%;
 }
 .cid-qNkoonXaJN {
   padding-top: 120px;
