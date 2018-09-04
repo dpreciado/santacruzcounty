@@ -1437,6 +1437,9 @@ body {
 .cid-qNhJjXFU63 .copyright > p {
   text-align: left;
 }
+#custom-html-6l .google_translate_element {
+  position: absolute;
+}
 .cid-r2HsfuYCu4 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1444,9 +1447,6 @@ body {
 }
 .cid-r2HsfuYCu4 .mbr-text {
   color: #8d97ad;
-}
-#custom-html-6l .google_translate_element {
-  position: absolute;
 }
 .cid-qNkoonXaJN {
   padding-top: 120px;
