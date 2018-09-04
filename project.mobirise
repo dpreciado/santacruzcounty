@@ -896,7 +896,9 @@
           "_global": true,
           "_once": false,
           "_params": {},
-          "_anchor": "footer3-6p"
+          "_anchor": "footer3-6p",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_customTemplate": true,
@@ -911,7 +913,7 @@
           "_anchor": "custom-html-6o",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\" align-content=\"center\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');\n}\n</script>"
+            "<script type=\"text/javascript\" align-content=\"absolute\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');\n}\n</script>"
           ]
         }
       ]
