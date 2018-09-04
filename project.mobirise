@@ -911,7 +911,7 @@
           "_anchor": "custom-html-6o",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');\n}\n</script>"
+            "<script type=\"text/javascript\" align-content=\"center\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');\n}\n</script>"
           ]
         }
       ]
